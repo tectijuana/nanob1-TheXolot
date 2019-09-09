@@ -1,28 +1,19 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+# Actividad 1
+Investigar los siguientes conceptos básicos: 
+*Definición de lenguaje.
+*Definición de algoritmo.
+*Algoritmos cotidianos.
+*Definición de lenguaje algorítmico.
+## Definiciones
+### Lenguaje: 
+Un **lenguaje** informático es un lenguaje usado por, o asociado con, ordenadores.
+### Algoritmo:
+Un **algoritmo** se puede definir como una secuencia de instrucciones que representan un modelo de solución para determinado tipo de problemas. O bien como un conjunto de instrucciones que realizadas en orden conducen a obtener la solución de un problema.
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+## Algoritmos cotidianos:
+La serie de pasos que realizamos en nuestra vida diaria para realizar las diferentes tareas y actividades comunes, desde los pasos al levantarnos, así como ir de compras, etc.
 
-Plantilla generica de todo repositorio.
+## Lenguaje Algorítmico
+Es aquel por medio del cual se realiza un análisis previo del problema a resolver y encontrar un método que permita resolverlo.
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
-
-----
-
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
-
-----
-
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
-
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
-
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
-
-
+![](https://st3.depositphotos.com/2704315/12963/v/950/depositphotos_129638540-stock-illustration-happy-child-character-doing-homework.jpg)
