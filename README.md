@@ -1,9 +1,15 @@
 # Actividad 1
-Investigar los siguientes conceptos básicos: 
+Investigar los siguientes conceptos básicos:
+<br>
 *Definición de lenguaje.
+<br>
 *Definición de algoritmo.
+<br>
 *Algoritmos cotidianos.
+<br>
 *Definición de lenguaje algorítmico.
+## De los problemas a los programas:
+La **computadora** no solamente es una maquina que puede realizar procesos para darnos resultados, sin que tengamos la noción exacta de las operaciones que realiza para llegar a esos resultados. Con la computadora además de lo anterior también podemos diseñar soluciones a la medida, de problemas específicos que se nos presenten. Mas aun, si estos involucran operaciones matemáticas complejas y/o repetitivas, o requieren del manejo de un volumen muy grande de datos.
 ## Definiciones
 ### Lenguaje: 
 Un **lenguaje** informático es un lenguaje usado por, o asociado con, ordenadores.
